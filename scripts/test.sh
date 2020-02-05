@@ -2,4 +2,4 @@
 
 set -euo pipefail
 
-docker run -i test go version
+docker run -i new go version
