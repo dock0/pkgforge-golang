@@ -1,9 +1,8 @@
 dock0/pkgforge-golang
 ==========
 
-[![Automated Build](https://img.shields.io/docker/build/dock0/pkgforge-golang.svg)](https://hub.docker.com/r/dock0/pkgforge-golang/)
-[![Build Status](https://img.shields.io/travis/com/dock0/pkgforge-golang.svg)](https://travis-ci.com/dock0/pkgforge-golang)
-[![MIT Licensed](https://img.shields.io/badge/license-MIT-green.svg)](https://tldrlegal.com/license/mit-license)
+[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dock0/pkgforge-golang/Build)](https://github.com/dock0/pkgforge-golang/actions))
+[![License](https://img.shields.io/github/license/dock0/pkgforge-golang)](https://github.com/dock0/pkgforge-golang/blob/master/LICENSE)
 
 Docker image for use with [pkgforge-golang-helper](https://github.com/akerl/pkgforge-golang-helper)
 
