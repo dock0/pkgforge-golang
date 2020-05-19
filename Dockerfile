@@ -1,2 +1,2 @@
-FROM docker.pkg.github.com/dock0/pkgforge/pkgforge:20200519-cfd2070
+FROM docker.pkg.github.com/dock0/pkgforge/pkgforge:20200519-3535584
 RUN pacman -S --needed --noconfirm go zip
