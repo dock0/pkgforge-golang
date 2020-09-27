@@ -1,2 +1,2 @@
-FROM docker.pkg.github.com/dock0/pkgforge/pkgforge:20200927-80bd45e
+FROM docker.pkg.github.com/dock0/pkgforge/pkgforge:20200927-f98509f
 RUN pacman -S --needed --noconfirm go zip
