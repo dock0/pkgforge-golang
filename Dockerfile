@@ -1,2 +1,2 @@
-FROM ghcr.io/dock0/pkgforge:20251206-96d64eb
+FROM ghcr.io/dock0/pkgforge:20251206-718157f
 RUN pacman -S --needed --noconfirm go zip
