@@ -1,2 +1,2 @@
-FROM ghcr.io/dock0/pkgforge:v1.0.18
+FROM ghcr.io/dock0/pkgforge:v1.0.19
 RUN pacman -S --needed --noconfirm go zip
